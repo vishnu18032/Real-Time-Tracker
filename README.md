@@ -26,7 +26,7 @@
   6.  Open your browser and navigate to `http://localhost:4000` to view the application.
 
 
-#Usage
+-  Usage
 ->  Allow the browser to access your location.
 ->  Open multiple tabs or devices to see real-time updates on the map.
 
